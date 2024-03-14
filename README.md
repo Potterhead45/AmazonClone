@@ -1,2 +1,3 @@
 # AmazonClone
-Amazon Clone website landing page using HTML and CSS 
+Front-End Project
+Amazon website landing page using HTML and CSS 
